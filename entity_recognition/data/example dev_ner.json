@@ -1,0 +1,282 @@
+[
+    {
+        "text": "柴胡和甘草常用于治疗乏力。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "柴胡"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "甘草"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "乏力"
+            }
+        ],
+        "relations": [
+            {
+                "head": "柴胡",
+                "tail": "乏力",
+                "relation": "治疗"
+            },
+            {
+                "head": "甘草",
+                "tail": "乏力",
+                "relation": "治疗"
+            }
+        ]
+    },
+    {
+        "text": "川芎和白术常用于治疗头痛。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "川芎"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "白术"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "头痛"
+            }
+        ],
+        "relations": [
+            {
+                "head": "川芎",
+                "tail": "头痛",
+                "relation": "治疗"
+            },
+            {
+                "head": "白术",
+                "tail": "头痛",
+                "relation": "治疗"
+            }
+        ]
+    },
+    {
+        "text": "当归和白术常用于改善头痛。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "当归"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "白术"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "头痛"
+            }
+        ],
+        "relations": [
+            {
+                "head": "当归",
+                "tail": "头痛",
+                "relation": "改善"
+            },
+            {
+                "head": "白术",
+                "tail": "头痛",
+                "relation": "改善"
+            }
+        ]
+    },
+    {
+        "text": "黄芪和川芎常用于治疗发热。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "黄芪"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "川芎"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "发热"
+            }
+        ],
+        "relations": [
+            {
+                "head": "黄芪",
+                "tail": "发热",
+                "relation": "治疗"
+            },
+            {
+                "head": "川芎",
+                "tail": "发热",
+                "relation": "治疗"
+            }
+        ]
+    },
+    {
+        "text": "茯苓和川芎常用于治疗腹泻。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "茯苓"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "川芎"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "腹泻"
+            }
+        ],
+        "relations": [
+            {
+                "head": "茯苓",
+                "tail": "腹泻",
+                "relation": "治疗"
+            },
+            {
+                "head": "川芎",
+                "tail": "腹泻",
+                "relation": "治疗"
+            }
+        ]
+    },
+    {
+        "text": "丹参和党参常用于治疗头痛。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "丹参"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "党参"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "头痛"
+            }
+        ],
+        "relations": [
+            {
+                "head": "丹参",
+                "tail": "头痛",
+                "relation": "治疗"
+            },
+            {
+                "head": "党参",
+                "tail": "头痛",
+                "relation": "治疗"
+            }
+        ]
+    },
+    {
+        "text": "石膏和茯苓常用于改善发热。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "石膏"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "茯苓"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "发热"
+            }
+        ],
+        "relations": [
+            {
+                "head": "石膏",
+                "tail": "发热",
+                "relation": "改善"
+            },
+            {
+                "head": "茯苓",
+                "tail": "发热",
+                "relation": "改善"
+            }
+        ]
+    },
+    {
+        "text": "党参和当归常用于治疗便秘。",
+        "entities": [
+            {
+                "entity": "药材",
+                "start": 0,
+                "end": 2,
+                "text": "党参"
+            },
+            {
+                "entity": "药材",
+                "start": 3,
+                "end": 5,
+                "text": "当归"
+            },
+            {
+                "entity": "症状",
+                "start": 10,
+                "end": 12,
+                "text": "便秘"
+            }
+        ],
+        "relations": [
+            {
+                "head": "党参",
+                "tail": "便秘",
+                "relation": "治疗"
+            },
+            {
+                "head": "当归",
+                "tail": "便秘",
+                "relation": "治疗"
+            }
+        ]
+    }
+  ]
